@@ -36,7 +36,7 @@ Go to the project directory
   cd joquenpo-game
 ```
 
-Open index.html
+Open index.html or acess https://devchristianwagner-joquenpo.netlify.app/
 
 <h2>Links</h2>
 
